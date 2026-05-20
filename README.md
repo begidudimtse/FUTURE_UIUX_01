@@ -1,13 +1,13 @@
-Bole Low Group – Law Firm Website UI Redesign
-Project Overview
+# Bole Low Group – Law Firm Website UI Redesign
+
+# Project Overview
 
 This project is a conversion-focused website UI redesign for a local Ethiopian law firm called Bole Low Group.
 
 The goal of the redesign was to create a modern, trustworthy, and lead-generation-focused experience that encourages users to contact the firm for legal assistance.
 
-The design was inspired by high-performing law firm websites such as Morgan & Morgan, while adapting the experience for Ethiopian users and local business needs.
+# Objectives
 
-Objectives
 Improve trust and credibility
 Increase lead generation opportunities
 Create clear navigation
@@ -15,7 +15,8 @@ Improve visual hierarchy
 Build a strong mobile-friendly structure
 Present legal services clearly
 Encourage users to call or contact the firm
-Pages Designed
+
+# Pages Designed
 Homepage
 Practice Areas
 Our Results
@@ -23,10 +24,12 @@ About Page
 Jury/Attorney Team Page
 Contact Page
 Service Detail Sections
-Design Tools
+
+# Design Tools
 Figma
 Google Fonts
-Key UX Features
+
+# Key UX Features
 Conversion-focused hero section
 Sticky CTA structure
 Lead generation form above the fold
@@ -35,7 +38,8 @@ Social proof and testimonials
 Strong visual hierarchy
 Easy-to-scan content structure
 Consistent CTA repetition
-Target Users
+
+# Target Users
 Injury victims
 Individuals seeking legal support
 Ethiopian users searching for trusted law firms
